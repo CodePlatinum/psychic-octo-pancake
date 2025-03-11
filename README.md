@@ -1,2 +1,2 @@
-# psychic-octo-pancake
-Calculator.py
+# Калькулятор і його функціЇ
+
